@@ -1,10 +1,9 @@
-# Hey there! I'm Aditya Vaibhav Pawar 👋
-
-🚀 *AI & Data Science Enthusiast | Learning Full-Stack Web Developer*  
-💡 Passionate about *AI and Web Technologies*  
-🎯 Always learning, building, and solving real-world problems  
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aditya%20Vaibhav%20Pawar&fontSize=70&fontAlignY=38&descAlignY=55&animation=fadeIn" width="100%">
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+enthusiast;Full-Stack+developer+in+making;Passionate+learner+and+creator" alt="Typing SVG" /></a>
+</div>
 
 ## 📌 About Me:
 <table>
@@ -17,9 +16,11 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h2><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30"> Connect With Me</h2>
 
-## 🔗 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-FB3958?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/adityavaibhavpawar/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/adityavaibhavpawar/) 
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/adityavpawar) 
@@ -27,7 +28,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adityavaibhavpawar@gmail.com)
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🛠 Tech Stack:
 
@@ -51,11 +54,18 @@
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![SSMS](https://img.shields.io/badge/SSMS-F8981D?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms)
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🎡 Featured Project:
 [![BillWiz](https://img.shields.io/badge/GitHub-BillWiz-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar/BillWiz)
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 🔹 *Let's build something amazing together!* 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
