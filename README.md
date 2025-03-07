@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aditya%20Vaibhav%20Pawar&fontSize=70&fontAlignY=38&descAlignY=55&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180§ion=header&text=Aditya%20Vaibhav%20Pawar&fontSize=70&fontAlignY=38&descAlignY=55&animation=fadeIn" width="100%">
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+enthusiast;Full-Stack+developer+in+making;Passionate+learner+and+creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD¢er=true&vCenter=true&width=435&lines=AI+%26+Data+Science+enthusiast;Full-Stack+developer+in+making;Passionate+learner+and+creator" alt="Typing SVG" /></a>
 </div>
+
+## ✨ Summary
+
+A driven and enthusiastic student pursuing a career at the intersection of AI, Data Science, and Full-Stack Development.  Combining a solid foundation from a Computer Engineering diploma with ongoing studies in AI and DS, and continuously seeking opportunities to learn, create, and collaborate on innovative projects.
 
 ## 📌 About Me:
 <table>
@@ -67,5 +71,5 @@
 
 🔹 *Let's build something amazing together!* 🚀
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer" width="100%"/>
 </div>
