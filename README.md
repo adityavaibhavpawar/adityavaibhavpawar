@@ -29,7 +29,8 @@ A driven and enthusiastic student pursuing a career at the intersection of AI, D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/adityavaibhavpawar/) 
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/adityavpawar) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/858564855077142559) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/adityavaibhavpawar/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adityavaibhavpawar@gmail.com)
 
 <div align="center">
