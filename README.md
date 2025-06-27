@@ -50,6 +50,9 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![SSMS](https://img.shields.io/badge/SSMS-F8981D?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+
 
 ---
 
